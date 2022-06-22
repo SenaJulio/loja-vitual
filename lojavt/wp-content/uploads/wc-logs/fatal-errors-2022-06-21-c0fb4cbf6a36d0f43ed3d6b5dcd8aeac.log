@@ -1,0 +1,4 @@
+2022-06-21T21:23:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\lojavt\wp-includes\functions.php, na linha 4540
+
+2022-06-21T21:31:08+00:00 CRITICAL Maximum execution time of 300 seconds exceeded, em C:\xampp\htdocs\lojavt\wp-admin\includes\class-wp-filesystem-direct.php, na linha 442
+

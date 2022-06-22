@@ -1,0 +1,4 @@
+2022-06-20T14:35:48+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\lojavt\wp-content\plugins\woocommerce\src\Internal\Admin\FeaturePlugin.php, na linha 8
+
+2022-06-20T22:27:56+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\lojavt\wp-content\themes\astra\inc\builder\type\header\search\dynamic-css\dynamic.css.php, na linha 9
+
